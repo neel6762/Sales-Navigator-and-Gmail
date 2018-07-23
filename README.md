@@ -28,7 +28,7 @@ Emial address with incomplete linkedin details will have No details! correspondi
 
 ----- REQUIREMENTS ----
 
-You need to set the path of your Selenium browser , change the value of the path variable on line no. 26 in the program file
+You need to set the path of your chrome driver , change the value of the path variable on line no. 26 in the program file
 Also save the chrome extension in the same folder , download it from here
 
 Modules 
