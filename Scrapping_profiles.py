@@ -23,7 +23,7 @@ testProfiles = input().split()
 op = webdriver.ChromeOptions()
 op.add_extension('e.crx')
 op.add_argument("--start-maximized")
-path = r'C:\Users\ONEST\AppData\Local\Programs\Python\Python36-32\selenium\webdriver\chromedriver_win32\chromedriver.exe'
+path = r'Set the chromdriver path'
 browser = webdriver.Chrome(path, chrome_options=op)
 
 # Linkedin Login
