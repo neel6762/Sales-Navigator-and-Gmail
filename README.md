@@ -19,5 +19,6 @@ Email address with no linkedin profile will have No details! as the field in Exc
 Emial address with incomplete linkedin details will have No details! corresponding to that field ( Few examples are available in the profile_details.xlsx file)
 
 ----- REQUIREMENTS ----
+
 You need to set the path of your Selenium browser , change the value of the path variable on line no. 26 in the program file
 Also save the chrome extension in the same folder , download it from here
