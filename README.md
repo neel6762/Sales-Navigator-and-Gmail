@@ -10,11 +10,13 @@ Enter your Linked in profile details -->> email and password to login
 
 Enter your Gmail profile details -->> email and password to login
 
+
 Enter the email address's to fetch details seperated by SPACE , this is mandatory DO NOT USE ENTER KEY
 
 ---> Example::: abc@gmail.com xyz@gmail.com abc@gmail.com mln@gmail.com
 
 Please follow this pattern
+
 
 Now you will have the profile_details.xlsx file at the same location were you saved the Scrapping_profiles.py file
 
